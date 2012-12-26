@@ -1,0 +1,7 @@
+-od"bin"
+-of"bin/map_reduce"
+
+-I"src"
+
+"src/main.d"
+"src/map_reduce.d"
